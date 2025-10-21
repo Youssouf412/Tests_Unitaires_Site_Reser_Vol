@@ -6,5 +6,5 @@ fonctionnalités du système, notamment : Recherche de vols, Réservation de si�
 Les tests ont été développés en utilisant un framework de test qui est JUnit
 
 ##Auteurs:
-Flavio Castells
-Youssoufi Garba Abdourrahmane
+-Flavio Castells
+-Youssoufi Garba Abdourrahmane
