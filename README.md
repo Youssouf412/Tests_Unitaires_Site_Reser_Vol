@@ -5,4 +5,6 @@ Dans le cadre de ce projet, j’ai conçu et implémenté une suite de tests uni
 fonctionnalités du système, notamment : Recherche de vols, Réservation de sièges et gestion des disponibilitésc...
 Les tests ont été développés en utilisant un framework de test qui est JUnit
 
-Merci!
+##Auteurs:
+Flavio Castells
+Youssoufi Garba Abdourrahmane
